@@ -5,7 +5,6 @@
         <!-- Security Group: Connect As User -->
         <record id="group_connect_as_user" model="res.groups">
             <field name="name">Connect As User</field>
-            <field name="category_id" ref="base.module_category_administration"/>
             <field name="comment">
                 Users in this group can log in as any other user
                 directly from the user form without a password.
