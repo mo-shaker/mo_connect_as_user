@@ -7,7 +7,7 @@
     'author': 'Mohamed Shaker',
     'website': 'www.mohamedshaker.com',
     'category': 'Administration',
-    'version': '0.1',
+    'version': '17.0.1.0.0',
     'license': 'LGPL-3',
     'depends': ['base', 'web'],
     'data': [
